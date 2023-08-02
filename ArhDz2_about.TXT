@@ -1,0 +1,23 @@
+https://github.com/SB44444/ArhDz2.git
+
+Архитектура ПО (семинары)
+Урок 2. Объектно-ориентированные паттерны
+https://github.com/vyntyk/FabricMethod.git
+Код с семинара на Java
+python https://github.com/JuliaRyzhova/Software_architecture/tree/main/Seminar_2
+Код с семинара на Питоне
+Спасибо!)
+
+Задание.
+Прислать простую реализацию 5-ти Патернов ,на любом языке (С комментариями ), из списка -
+
+Строитель (Builder)
+Цепочка обязанностей (Chain of Responsibility)
+Команда (Command)
+Итератор (Iterator)
+Посредник (Mediator)
+Памятка (Memento)
+Состояние (State)
+Стратегия (Strategy)
+Шаблонный метод (Template Method)
+Посетитель (Visitor)
